@@ -1,0 +1,12 @@
+@import "reset.css";
+
+body {
+  font-size: 62.5%; /* Causes base font size to be ~10px */
+/*background: #fafafa;*/
+}
+
+.wrapper {
+	width: 800px;
+	margin: 0 auto;
+	padding-top:15px;
+}
